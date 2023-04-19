@@ -7,4 +7,4 @@ Tienes un grupo de 6 amigos y quieres invitarlos a cenar por tu cumpleaños.
 - Calcula cuánto tendría que pagar cada comensal para dividir los costos de manera equitativa.
 - Utiliza JavaScript para hacer el cálculo y mostrar el resultado por consola.
 
-Resultado: el archivo con el cálculo está en src > main.js.
+**Resultado**: el archivo con el cálculo está en src > main.js.
